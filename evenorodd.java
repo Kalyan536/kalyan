@@ -11,9 +11,9 @@ class Ideone
 		if(n>0)
 		{
 			if(n%2==0)
-			System.out.println("given number "+n+ " is even");
+			System.out.println("given number "+n+" is even");
 			else
-			System.out.println("given number" +n+"  is odd");
+			System.out.println("given number "+n+" is odd");
 		}
 		else
 		System.out.println("invaild");
