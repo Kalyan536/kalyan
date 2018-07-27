@@ -9,7 +9,7 @@ class Ideone
 		int a=s.nextInt();
 		if(a>0)
 		{
-			System.out.println("Postive");
+			System.out.println("Positive");
 		}
 		else if (a==0)
 		{
