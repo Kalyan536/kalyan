@@ -9,7 +9,7 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		int N;
+	  int N;
 		int Q;
 		Scanner s = new Scanner(System.in);
 		N=s.nextInt();
